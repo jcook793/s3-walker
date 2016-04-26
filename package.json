@@ -1,0 +1,14 @@
+{
+  "name": "s3-walker",
+  "version": "1.0.0",
+  "description": "Walks an S3 bucket by prefixes or objects",
+  "main": "walker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Cook <jcook793@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.3"
+  }
+}
